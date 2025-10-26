@@ -1,6 +1,9 @@
 // Desafio Lógica Super Trunfo - Países
 // Tema 2- Comparação das Cartas
 
+Printf ("Desafio Lógica Super Trunfo \n");
+Printf ("Novo Commit \n");
+
 
 #include <stdio.h>
 
